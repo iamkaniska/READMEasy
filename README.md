@@ -5,13 +5,19 @@
 READMEasy is a user-friendly web platform that empowers you to generate comprehensive and engaging README files for your software projects. Powered by advanced AI models, ReadMeister effortlessly tailors your README content based on your project's unique details.
 
 ## Features
-1. AI-Driven Content Creation: Harness cutting-edge AI to craft engaging, high-quality README files that effectively communicate your project's purpose and key features.
-2. Intuitive Input Form: A user-friendly interface guides you step-by-step through inputting essential project details, simplifying the process.
-3. Live Markdown Preview: Effortlessly toggle between raw Markdown and a rendered preview, enabling real-time visualization of your README as you build it.
-4. Customizable Sections: Tailor your README to your specific needs by adding or removing sections like Features, Installation, Usage Instructions, and more.
-5. Seamless Image Integration: Enhance your README with images or logos to give your project a unique identity and visual appeal.
-6. One-Click Copy: Instantly copy your finalized README to the clipboard with a single click, ready to be added to your repository.
-7. Fully Responsive Design: Enjoy a smooth and optimized experience across all devices, with a web interface designed to adapt to any screen size.
+AI-Powered Content Creation: Leverage advanced AI to generate engaging, high-quality README files that clearly showcase your project's purpose and key features.
+
+User-Friendly Input Form: An intuitive interface walks you through entering essential project details, simplifying the entire process step by step.
+
+Live Markdown Preview: Seamlessly switch between raw Markdown and a real-time preview, allowing you to see how your README will appear as you build it.
+
+Customizable Sections: Personalize your README by adding or removing sections like Features, Installation, Usage, and more to fit your project’s needs.
+
+Easy Image Integration: Enrich your README with images or logos, giving your project a distinctive visual identity.
+
+One-Click Copy: Quickly copy your completed README to the clipboard with just one click, ready to paste into your repository.
+
+Responsive Design: Experience an optimized, smooth interface on any device, with a design that adapts perfectly to all screen sizes.
 
 ## Installation
 
